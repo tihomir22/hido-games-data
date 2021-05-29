@@ -1,0 +1,6 @@
+version: '3.3'
+services:
+  hido-games-data:
+    build: .
+    ports:
+      - '3666:3000'
