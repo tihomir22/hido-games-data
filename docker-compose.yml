@@ -3,4 +3,4 @@ services:
   hido-games-data:
     build: .
     ports:
-      - '3666:3000'
+      - '3666:3666'
